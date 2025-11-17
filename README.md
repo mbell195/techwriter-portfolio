@@ -62,7 +62,6 @@ The portfolio is built with a single-page design using Tailwind CSS. Key section
 - **Email**: marcbell@gmail.com
 - **LinkedIn**: [linkedin.com/in/marc-bell-24857b2b](https://www.linkedin.com/in/marc-bell-24857b2b/)
 - **GitHub**: [@mbell195](https://github.com/mbell195)
-- **GitHub (SAP)**: [@MarcBell-SAP](https://github.com/MarcBell-SAP)
 
 ## License
 
