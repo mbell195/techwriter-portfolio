@@ -1,6 +1,6 @@
-# Technical Writer Portfolio
+# Marc Bell - Technical Writer Portfolio
 
-A professional portfolio website showcasing my work as a Principal Staff Technical Writer specializing in AI & Developer Platforms.
+A professional portfolio website showcasing the work of Marc Bell, a Principal Staff Technical Writer specializing in AI & Developer Platforms.
 
 ## About
 
@@ -13,7 +13,7 @@ This portfolio highlights my 10+ years of experience in technical writing, with 
 
 ## Live Site
 
-Visit the portfolio at: [Your GitHub Pages URL]
+Visit the portfolio at: **[https://mbell195.github.io/techwriter-portfolio/](https://mbell195.github.io/techwriter-portfolio/)**
 
 ## Featured Projects
 
