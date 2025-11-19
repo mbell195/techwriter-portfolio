@@ -25,6 +25,7 @@ The portfolio showcases several key projects including:
 - **AI-Driven Release Notes Automation** - 50% reduction in manual documentation time
 - **SAP Concur API Developer Tutorials** - Code samples and integration guides
 - **SAP Jam Developer Documentation** - Complete developer documentation ecosystem
+- **AI Content Evaluation Instruction Guide** - Comprehensive rater instruction guide for evaluating AI-generated content
 
 ## Technology Stack
 
