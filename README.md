@@ -17,15 +17,19 @@ Visit the portfolio at: **[https://mbell195.github.io/techwriter-portfolio/](htt
 
 ## Featured Projects
 
-The portfolio showcases several key projects including:
-- **SAP Concur AI & Joule Integration** - Enterprise AI documentation
-- **SAP Concur Developer Center** - Complete developer portal ecosystem
-- **OAS to Developer Portal Generator** - Open-source docs-as-code automation tool
-- **SAP Business Accelerator Hub** - API catalog documentation
-- **AI-Driven Release Notes Automation** - 50% reduction in manual documentation time
-- **SAP Concur API Developer Tutorials** - Code samples and integration guides
-- **SAP Jam Developer Documentation** - Complete developer documentation ecosystem
-- **AI Content Evaluation Instruction Guide** - Comprehensive rater instruction guide for evaluating AI-generated content
+The portfolio showcases selected work organized into two categories:
+
+### Open Source
+- **OAS to Developer Portal Generator** - Open-source docs-as-code automation tool that generates complete developer portals from OpenAPI specifications
+- **AI Content Evaluation Instruction Guide** - Comprehensive rater instruction guide for evaluating AI-generated content quality across helpfulness, accuracy, and safety dimensions
+
+### Closed Source
+- **SAP Concur AI & Joule Integration** - Enterprise AI documentation for SAP Concur's AI Resources and Enterprise Agentic AI integration
+- **SAP Concur Developer Center** - Complete developer portal ecosystem with OpenAPI/Swagger documentation
+- **SAP Business Accelerator Hub - Concur APIs** - API catalog documentation for SAP Concur's global enterprise developers
+- **SAP Concur AI-Driven Release Notes Automation** - AI-driven documentation pipeline that reduced manual documentation time by 50%
+- **SAP Concur API Developer Tutorials** - Code samples and developer tutorials in JavaScript and Java
+- **SAP Jam Developer Documentation** - Complete developer documentation ecosystem for SAP Jam's global platform
 
 ## Technology Stack
 
