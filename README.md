@@ -24,7 +24,7 @@ The portfolio showcases selected work organized into two categories:
 ### Open Source
 - **[OAS to Developer Portal Generator](https://github.com/mbell195/OAS-to-Developer-Portal-Generator)** - Open-source docs-as-code automation tool that generates complete developer portals from OpenAPI specifications
 - **[AI Content Evaluation Instruction Guide](Portfolio/Sample_Rater_Instruction_Guide_Portfolio.pdf)** - Comprehensive rater instruction guide for evaluating AI-generated content quality across helpfulness, accuracy, and safety dimensions
-- **[Tech Docs to Diagrams](https://github.com/mbell195/Tech-Docs-To-Diagrams)** - Hybrid diagramming workflow for modern technical documentation that bridges engineering precision (version-controlled diagram code) with visual impact (generative AI assets)
+- **[Tech Docs to Diagrams](https://github.com/mbell195/Tech-Docs-To-Diagrams)** - Automatically generates Mermaid diagrams from written drafts using OpenAI GPT-4o or Google Gemini. Fine-tune diagrams with precision using a visual editor, then beautify them with DALL-E 3 or Imagen 3 AI. This hybrid workflow combines version-controlled code with professional design aesthetics, fully automated via GitHub Actions.
 
 ### Closed Source
 - **[SAP Concur AI & Joule Integration](https://help.sap.com/docs/SAP_CONCUR_SECURITY/e956b5b6a0d2423cac014094834b5b3c/88f6db5018df4437a411be9d1742fd46.html)** - Enterprise AI documentation for SAP Concur's AI Resources and Enterprise Agentic AI integration
